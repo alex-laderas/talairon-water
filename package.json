@@ -1,9 +1,9 @@
 {
+  "homepage": "https://alex-laderas.github.io/talairon-water",
   "name": "talairon-water",
   "proxy": "https://127.0.0.1:5000",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alex-laderas.github.io/talairon-water",
   "dependencies": {
     "@react-google-maps/api": "^2.13.1",
     "@testing-library/jest-dom": "^5.16.5",
