@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/talairon-water/static/css/main.d343d692.css",
+    "main.js": "/talairon-water/static/js/main.32246c85.js",
+    "static/media/talairon2.jpg": "/talairon-water/static/media/talairon2.d8f697bd8ce3f3a83387.jpg",
+    "static/media/talairon3.jpg": "/talairon-water/static/media/talairon3.47b830a4b17c25c58af3.jpg",
+    "static/media/talairon1.png": "/talairon-water/static/media/talairon1.255f5dfb3301662c6815.png",
+    "static/media/talairon4.jpg": "/talairon-water/static/media/talairon4.9da27bb0347aaf767a02.jpg",
+    "static/media/navLogo.png": "/talairon-water/static/media/navLogo.acd40f257cf2c294f525.png",
+    "static/media/bg.jpg": "/talairon-water/static/media/bg.92e81c071a354ea82b83.jpg",
+    "static/media/talairon-map.png": "/talairon-water/static/media/talairon-map.62cc024fbfe45e35625b.png",
+    "index.html": "/talairon-water/index.html",
+    "main.d343d692.css.map": "/talairon-water/static/css/main.d343d692.css.map",
+    "main.32246c85.js.map": "/talairon-water/static/js/main.32246c85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d343d692.css",
+    "static/js/main.32246c85.js"
+  ]
+}
